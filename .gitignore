@@ -1,0 +1,42 @@
+.DS_Store
+.ode_modules
+/dist
+
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# 忽略依赖安装目录
+node_modules/
+
+# 忽略构建输出目录
+dist/
+build/
+
+
+# 忽略环境变量文件
+**/.env*
+
+# 忽略日志文件和调试文件
+*.log
+npm-debug.log*
+
+# 忽略特定的数据库文件
+payment_demo.sql
+
+# 可选：忽略锁定文件
+package-lock.json
+yarn.lock
