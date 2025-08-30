@@ -2,8 +2,14 @@
 
 > 🎯 基于 **尚硅谷支付教学资源** 开发的 **一体化支付系统**，支持前后端分离，涵盖从 **商品下单 → 发起支付 → 回调通知 → 订单状态更新** 的完整流程，帮助开发者快速掌握支付业务开发。
 
-<p align="center">   <img src="https://img.shields.io/github/license/yourname/payment-demo?style=flat-square&logo=github&color=blue" alt="license" />   <img src="https://img.shields.io/github/stars/yourname/payment-demo?style=flat-square&logo=github&color=yellow" alt="stars" />   <img src="https://img.shields.io/github/forks/yourname/payment-demo?style=flat-square&logo=github&color=orange" alt="forks" />   <img src="https://img.shields.io/github/issues/yourname/payment-demo?style=flat-square&color=red" alt="issues" />   <img src="https://img.shields.io/badge/SpringBoot-3.x-brightgreen?style=flat-square&logo=springboot" alt="springboot" />   <img src="https://img.shields.io/badge/Vue-3.x-42b883?style=flat-square&logo=vue.js" alt="vue3" /> </p>
-
+<p align="center">
+  <img src="https://img.shields.io/github/license/OrcsaVik/shangguigu-payment?style=flat-square&logo=github&color=blue" alt="License" />
+  <img src="https://img.shields.io/github/stars/OrcsaVik/shangguigu-payment?style=flat-square&logo=github&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/OrcsaVik/shangguigu-payment?style=flat-square&logo=github&color=orange" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/OrcsaVik/shangguigu-payment?style=flat-square&color=red" alt="Issues" />
+  <img src="https://img.shields.io/badge/SpringBoot-3.x-brightgreen?style=flat-square&logo=springboot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Vue-3.x-42b883?style=flat-square&logo=vue.js" alt="Vue 3" />
+</p>
 ------
 
 
