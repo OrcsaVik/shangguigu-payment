@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 .ode_modules
 /dist
@@ -19,11 +20,30 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+=======
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
+
+# 不需要的idea
+
+.idea/
+>>>>>>> 79f39a6bc2b58265533768e88ab5acc1718b380a
 
 
 **/target/
 
 */.mvn
+<<<<<<< HEAD
 
 # 忽略依赖安装目录
 node_modules/
@@ -46,3 +66,5 @@ npm-debug.log*
 # 可选：忽略锁定文件
 package-lock.json
 yarn.lock
+=======
+>>>>>>> 79f39a6bc2b58265533768e88ab5acc1718b380a
