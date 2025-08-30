@@ -3,6 +3,8 @@
 /dist
 
 
+
+
 # Log files
 npm-debug.log*
 yarn-debug.log*
@@ -18,6 +20,10 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
+
+**/target/
+
+*/.mvn
 
 # 忽略依赖安装目录
 node_modules/
@@ -35,7 +41,7 @@ build/
 npm-debug.log*
 
 # 忽略特定的数据库文件
-payment_demo.sql
+
 
 # 可选：忽略锁定文件
 package-lock.json
